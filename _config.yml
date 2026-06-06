@@ -1,0 +1,23 @@
+## title: Chorale Harmonie  
+description: Bienvenue sur le site de la chorale Harmonie de Bruxelles.  
+baseurl: ""  
+url: "[https://chorale-harmonie.github.io](https://chorale-harmonie.github.io)"  
+theme: minima
+
+---
+
+## layout: default  
+title: Accueil
+
+## Bienvenue sur le site de la Chorale Harmonie !
+
+Nous sommes une chorale basée à Bruxelles, passionnée par la musique et les performances en direct.
+
+### Prochains événements
+
+- **Concert de Noël** : 15 décembre 2026
+- **Répétition ouverte** : Tous les mercredis à 19h
+
+### Rejoignez-nous !
+
+Contactez-nous pour plus d'informations.
